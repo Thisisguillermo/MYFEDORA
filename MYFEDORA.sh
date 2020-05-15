@@ -4,9 +4,9 @@
 # Installing software for Fedora                                               #
 #                                                                              #
 #                                                                              #
-# Usage: sudo -u $USER ./MYINSTALLATION2.sh                                    #
-#                           Original code. This is a template for creating     #
-#                           new Bash shell scripts.                            #
+# Usage: sudo -u $USER ./MYFEDORA.sh                                           #
+#                           Original code.                                     #
+#                                                                              #
 #                                                                              #
 #                                                                              #
 #                                                                              #
