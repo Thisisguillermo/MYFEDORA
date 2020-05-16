@@ -42,6 +42,7 @@ sudo dnf install -y googler
 sudo dnf install -y jpegoptim 
 sudo dnf install -y ffmpeg 
 sudo dnf install -y gnome-tweaks 
+sudo dnf install -y gnome-documents
 sudo dnf install -y toolbox 
 sudo dnf install -y deja-dup 
 sudo dnf install -y chrome-gnome-shell 
