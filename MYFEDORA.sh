@@ -60,7 +60,6 @@ sudo dnf install -y seahorse
 sudo dnf install -y transmission
 sudo dnf install -y mediawriter
 sudo dnf install -y fuse-exfat
-sudo dnf install -y p7zip p7zip-plugins
 sudo dnf install -y gnome-shell-extension-openweather 
 sudo dnf install -y gnome-shell-extension-gsconnect 
 sudo dnf install -y webextension-gsconnect.x86_64 
