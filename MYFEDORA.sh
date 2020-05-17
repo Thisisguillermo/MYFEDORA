@@ -52,7 +52,8 @@ sudo dnf install -y thunderbird
 sudo dnf install -y podman-docker 
 sudo dnf install -y zram 
 sudo dnf install -y tlp 
-sudo dnf install -y ansible 
+sudo dnf install -y ansible
+sudo dnf install -y remmina
 sudo dnf install -y obs-studio
 sudo dnf install -y peek
 sudo dnf install -y seahorse 
